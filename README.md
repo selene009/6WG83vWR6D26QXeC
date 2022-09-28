@@ -28,7 +28,7 @@ Predict stock price valuations on a daily, weekly and monthly basis. Recommend B
 * LSTM
 * ARIMA & SARIMA
 #### Result 
-![](https://github.com/selene009/ValueInvestor/blob/main/img/1664339742144.png)
+![](https://github.com/selene009/ValueInvestor/blob/main/img/1664354256189.png)
 ![](https://github.com/selene009/ValueInvestor/blob/main/img/1664339781207.png)
 #### Calculate Bollinger Bands
 ![](https://github.com/selene009/ValueInvestor/blob/main/img/1664339929175.png)
